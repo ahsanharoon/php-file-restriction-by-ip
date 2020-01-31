@@ -1,2 +1,1 @@
-simple php secure folder script by multiple ip address
-no .htaccess need
+simple php folder restriction script by multiple ip address (no .htaccess need)
