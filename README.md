@@ -1,1 +1,2 @@
-# php-file-restriction-by-ip
+simple php secure folder script by multiple ip address
+no .htaccess need
